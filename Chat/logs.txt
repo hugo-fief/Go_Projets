@@ -1,0 +1,88 @@
+[25/01/2024 11:53:24] toto connected from 127.0.0.1:54473
+[25/01/2024 11:53:27] titi connected from 127.0.0.1:54475
+[25/01/2024 11:53:30] tonton connected from 127.0.0.1:54476
+[25/01/2024 16:02:38] Alexis connected from 127.0.0.1:56259
+[25/01/2024 16:02:54] Ronald connected from 127.0.0.1:56261
+[25/01/2024 16:03:11] Jean connected from 127.0.0.1:56262
+[25/01/2024 16:08:48] Ronald is disconnected [total client 2]
+[25/01/2024 16:08:59] Jean is disconnected [total client 1]
+[25/01/2024 16:09:09] Alexis is disconnected [total client 0]
+[25/01/2024 16:10:36] Hugo connected from 127.0.0.1:56302
+[25/01/2024 16:11:06] Julien connected from 127.0.0.1:56303
+[25/01/2024 16:11:34] Benoit connected from 127.0.0.1:56306
+[25/01/2024 16:33:10] ahahah connected from 127.0.0.1:56593
+[25/01/2024 16:33:21] ooooo connected from 127.0.0.1:56595
+[25/01/2024 16:35:14] ahahah is disconnected [total client 1]
+[25/01/2024 16:35:33] asasa connected from 127.0.0.1:56603
+[25/01/2024 16:35:44] mpmpmp connected from 127.0.0.1:56607
+[25/01/2024 16:44:16] asasa is disconnected [total client 1]
+[25/01/2024 16:44:18] mpmpmp is disconnected [total client 0]
+[25/01/2024 17:06:34] aasss connected from 127.0.0.1:56840
+[25/01/2024 17:06:42] pppp connected from 127.0.0.1:56841
+[25/01/2024 17:12:24] aasss is disconnected [total client 1]
+[25/01/2024 17:12:29] pppp is disconnected [total client 0]
+[25/01/2024 17:12:36] aaaa connected from 127.0.0.1:56856
+[25/01/2024 17:12:41] bbb connected from 127.0.0.1:56857
+[25/01/2024 17:13:52] aaaa is disconnected [total client 1]
+[25/01/2024 17:13:56] bbb is disconnected [total client 0]
+[25/01/2024 17:14:16] aaaa connected from 127.0.0.1:56867
+[25/01/2024 17:14:22] bbbb connected from 127.0.0.1:56868
+[25/01/2024 17:18:14] aaa connected from 127.0.0.1:56912
+[25/01/2024 17:18:21] bbbb connected from 127.0.0.1:56914
+[25/01/2024 17:19:48] aa connected from 127.0.0.1:56918
+[25/01/2024 17:19:52] bb connected from 127.0.0.1:56919
+[25/01/2024 17:21:11] aaa connected from 127.0.0.1:56924
+[25/01/2024 17:21:17] bbbb connected from 127.0.0.1:56926
+[25/01/2024 17:24:28] aaa connected from 127.0.0.1:56936
+[25/01/2024 17:24:37] zzzz connected from 127.0.0.1:56937
+[25/01/2024 17:26:34] Hugo connected from 127.0.0.1:56953
+[25/01/2024 17:26:44] John connected from 127.0.0.1:56954
+[25/01/2024 17:28:11] Hugo is disconnected [total client 1]
+[25/01/2024 17:28:32] Hugo connected from 127.0.0.1:56978
+[25/01/2024 17:28:38] John connected from 127.0.0.1:56979
+[25/01/2024 17:31:44] Hugo is disconnected [total client 1]
+[25/01/2024 17:31:45] John is disconnected [total client 0]
+[25/01/2024 17:31:54] aaa connected from 127.0.0.1:56991
+[25/01/2024 17:31:59] zzzz connected from 127.0.0.1:56992
+[25/01/2024 17:33:10] Hugo connected from 127.0.0.1:57002
+[25/01/2024 17:33:17] Tom connected from 127.0.0.1:57003
+[25/01/2024 17:36:47] Hugo connected from 127.0.0.1:57032
+[25/01/2024 17:36:54] Tom connected from 127.0.0.1:57033
+[25/01/2024 17:41:06] Hugo is disconnected [total client 1]
+[25/01/2024 17:41:08] Tom is disconnected [total client 0]
+[25/01/2024 17:41:21] AAAAA connected from 127.0.0.1:57051
+[25/01/2024 17:41:27] BBBB connected from 127.0.0.1:57052
+[25/01/2024 17:45:05] Alex connected from 127.0.0.1:57067
+[25/01/2024 17:45:09] John connected from 127.0.0.1:57068
+[25/01/2024 17:46:33] John is disconnected [total client 1]
+[25/01/2024 17:46:35] Alex is disconnected [total client 0]
+[26/01/2024 10:38:33] Hugo connected from 127.0.0.1:57920
+[26/01/2024 10:38:41] Fief connected from 127.0.0.1:57921
+[26/01/2024 10:55:55] Hugo connected from 127.0.0.1:57986
+[26/01/2024 10:56:03] Julien connected from 127.0.0.1:57989
+[26/01/2024 11:02:40] Hugo connected from 127.0.0.1:58010
+[26/01/2024 11:02:47] Aleixs connected from 127.0.0.1:58012
+[26/01/2024 11:06:04] Hugo connected from 127.0.0.1:58016
+[26/01/2024 11:06:08] Tom connected from 127.0.0.1:58018
+[26/01/2024 11:13:40] Hugo connected from 127.0.0.1:58040
+[26/01/2024 11:13:44] Tom connected from 127.0.0.1:58042
+[26/01/2024 11:23:07] Hugo connected from 127.0.0.1:58057
+[26/01/2024 11:23:13] Tom connected from 127.0.0.1:58059
+[26/01/2024 11:26:39] Client from 127.0.0.1:58056 interrupted the username input
+[26/01/2024 11:26:39] Hugo is disconnected [total clients 1]
+[26/01/2024 11:26:41] Client from 127.0.0.1:58058 interrupted the username input
+[26/01/2024 11:26:41] Tom is disconnected [total clients 0]
+[26/01/2024 11:26:51] Hugo connected from 127.0.0.1:58068
+[26/01/2024 11:26:59] Abib connected from 127.0.0.1:58070
+[26/01/2024 11:28:26] Client from 127.0.0.1:58067 interrupted the username input
+[26/01/2024 11:28:26] Hugo is disconnected [total clients 1]
+[26/01/2024 11:28:51] Hugo connected from 127.0.0.1:58073
+[26/01/2024 11:28:58] Abib connected from 127.0.0.1:58075
+[26/01/2024 11:35:57] Client from 127.0.0.1:58072 interrupted the username input
+[26/01/2024 11:35:57] Hugo is disconnected [total clients 1]
+[26/01/2024 11:36:01] Abib is disconnected [total clients 0]
+[26/01/2024 11:36:01] Client from 127.0.0.1:58074 interrupted the username input
+[26/01/2024 11:36:20] [INFO3] Hugo join the server
+[26/01/2024 11:36:20] Hugo connected from 127.0.0.1:58093
+[26/01/2024 11:36:24] [INFO3] Abib join the server
+[26/01/2024 11:36:24] Abib connected from 127.0.0.1:58095
