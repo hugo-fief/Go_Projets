@@ -112,6 +112,8 @@ func (client *Client) send() {
 	defer wg.Done()
 	for {
 		reader := bufio.NewReader(os.Stdin)
+		fmt.Print("Votre message : ")
+
 		message, err := reader.ReadString('\n')
 		if !client.IsConnected {
 			break
