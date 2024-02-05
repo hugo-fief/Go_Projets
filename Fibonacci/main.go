@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math"
 )
 
 func readIntFromInput() int {
@@ -16,29 +15,17 @@ func readIntFromInput() int {
 	return num
 }
 
-func isInteger(num float64) bool {
-	return num == math.Floor(num)
-}
-
 func printFibonacciSeries(n int) {
-	term1 := 0
-	term2 := 1
-	nextTerm := 0
+	term1, term2 := 0, 1
 
-	fmt.Printf("Série Fibonacci pour les %d premiers éléments :", n)
-	fmt.Println()
+	fmt.Printf("Série Fibonacci pour les %d premiers éléments : ", n)
 
-	for index := 1; index <= n; index++ {
-		if index <= 1 {
-			fmt.Print(term1)
-		} else if index == 2 {
-			fmt.Print(" ", term2)
-		} else {
-			nextTerm = term1 + term2
-			term1 = term2
-			term2 = nextTerm
-			fmt.Print(" ", nextTerm)
+	for i := 0; i < n; i++ {
+		if i > 0 {
+			fmt.Print(", ")
 		}
+		fmt.Print(term1)
+		term1, term2 = term2, term1+term2
 	}
 	fmt.Println()
 }
@@ -46,7 +33,7 @@ func printFibonacciSeries(n int) {
 func main() {
 	definedNumber := readIntFromInput()
 
-	if definedNumber <= 0 || !isInteger(float64(definedNumber)) {
+	if definedNumber <= 0 {
 		fmt.Println("Nombre incorrect, veuillez saisir un nombre entier strictement positif.")
 		return
 	}
