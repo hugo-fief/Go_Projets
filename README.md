@@ -5,4 +5,5 @@
 **Liste de projets :**  
 
 - Todo List (APP Web)
-- Chat en réel (APP Console)
+- Chat en temp réel (APP Console)
+- Suite de Fibonacci (APP Console)
