@@ -40,6 +40,7 @@ func readFromInput() (int, error) {
 
 func printFibonacciSeries(n int) {
 	term1, term2 := 0, 1
+	total := 0
 
 	fmt.Printf("Série Fibonacci pour les %d premiers éléments : ", n)
 
@@ -49,8 +50,11 @@ func printFibonacciSeries(n int) {
 		}
 
 		fmt.Print(term1)
+		total += term1
 		term1, term2 = term2, term1+term2
 	}
+
+	fmt.Printf("\nTotal de la série Fibonacci : %d", total)
 }
 
 func main() {
