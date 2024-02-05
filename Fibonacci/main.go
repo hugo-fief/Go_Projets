@@ -9,7 +9,7 @@ func readIntFromInput() int {
 	fmt.Print("Veuillez saisir un nombre entier : ")
 	_, err := fmt.Scan(&num)
 	if err != nil {
-		fmt.Println("Erreur lors de la lecture de l'entrée. Veuillez saisir un nombre entier.")
+		fmt.Println("Erreur lors de la lecture de l'entrée. Veuillez saisir un nombre entier")
 		return 0
 	}
 	return num
@@ -27,14 +27,13 @@ func printFibonacciSeries(n int) {
 		fmt.Print(term1)
 		term1, term2 = term2, term1+term2
 	}
-	fmt.Println()
 }
 
 func main() {
 	definedNumber := readIntFromInput()
 
 	if definedNumber <= 0 {
-		fmt.Println("Nombre incorrect, veuillez saisir un nombre entier strictement positif.")
+		fmt.Print("Nombre incorrect, veuillez saisir un nombre entier strictement positif")
 		return
 	}
 
