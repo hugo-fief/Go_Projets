@@ -29,5 +29,4 @@ func main() {
 	fmt.Scan(&definedNumber)
 
 	fibonacciGenerator(definedNumber)
-
 }
